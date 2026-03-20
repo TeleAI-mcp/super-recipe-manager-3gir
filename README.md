@@ -1,2 +1,3 @@
-# super-recipe-manager-3gir
-Automated issue comment bot repository
+# Super Recipe Manager 3Gir
+
+Automated issue comment bot repository.
